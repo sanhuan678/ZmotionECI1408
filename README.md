@@ -1,67 +1,75 @@
-# 四轴运动控制平台软件
+<img width="646" height="527" alt="image" src="https://github.com/user-attachments/assets/3745b67d-46d7-4010-b3fd-6489c8f876ae" /># 四轴运动控制平台软件
 
-基于C#与正运动ECI1408的四轴运动控制平台Windows上位机软件，通过EtherCAT总线实现对步进电机的精确控制。
+基于C#与正运动ECI1408的四轴运动控制平台软件开发项目。
 
 ## 项目概述
 
-本项目是一个独立设计并开发的Windows上位机软件，通过正运动ECI1408四轴EtherCAT总线控制卡对步进电机进行精确控制。采用WinForm作为前端开发框架，使用正运动技术提供的ZMC API动态链接库进行二次开发，确立了上位机与控制卡之间基于以太网通信的软件架构。
+本项目是一个Windows上位机软件，通过正运动ECI1408四轴EtherCAT总线控制卡实现对步进电机的精确控制。软件采用WinForm作为前端开发框架，利用正运动技术提供的ZMC API动态链接库进行二次开发，实现了上位机与控制卡之间基于以太网通信的完整解决方案。
 
 ## 系统功能
-<img width="638" height="438" alt="image" src="https://github.com/user-attachments/assets/f53df937-8d0e-4392-b067-7a779d20aa38" />
-<img width="629" height="400" alt="image" src="https://github.com/user-attachments/assets/fa5edad8-841d-490d-b70e-9259e5943688" />
+
+- **设备连接**：通过扫描IP地址与ECI1408轴卡建立稳定连接
+- **轴配置**：支持X、Y、Z三轴独立配置与管理
+- **参数设置**：全面的运动参数配置，包括：
+  - 起始速度
+  - 运行速度
+  - 加速度
+  - 减速度
+  - S曲线参数
+  - 脉冲当量
 
 
-### 点位运动(JOG)
-- 调用 `ZAux_Direct_SingleJog()` 函数实现电机正反转点动控制
-- 提供直观的用户界面进行实时手动控制
-- 参数设置：运行速度、加速度、减速度、S曲线、脉冲当量、绝对运动量、相对运动量
-
-### 回零运动
-- 编写完整的逻辑流程，结合限位开关信号
-- 调用 `ZAux_Direct_Home()` 函数实现自动回机械原点功能
-- 确保设备安全可靠地返回参考位置
-
-### 绝对/相对定位
-- 通过 `ZAux_Direct_SetMovePos()` 设置目标位置
-- 使用 `ZAux_Direct_SingleMove()` 函数实现同步阻塞运动控制
-- 控制电机精准运动到指定目标位置
-- 支持绝对坐标和相对坐标两种运动模式
-
-### 停止运动
-- 实现软件急停功能，确保操作安全
-- 集成硬件急停接口，提供双重安全保障
-- 快速响应停止指令，保护设备和人员安全
+- **运动控制**：
+  - 点动控制(ZAux_Direct_SingleJog)：支持正、负方向点动操作
+  - 寸动控制(ZAux_Direct_SetMovePos + ZAux_Direct_SingleMove)：支持相对运动与绝对运动两种模式，可设置正负方向及移动距离
+  - 回零操作(ZAux_Direct_Home)：使各轴返回初始位置
+<img width="646" height="527" alt="image" src="https://github.com/user-attachments/assets/4a8a9bd2-c01a-4a34-a614-babdfccc5134" />
 
 ## 技术架构
 
-- **开发平台**: Windows
-- **前端框架**: WinForm
-- **编程语言**: C#
-- **控制卡**: 正运动ECI1408四轴EtherCAT总线控制卡
-- **通信方式**: 以太网通信
-- **API**: 正运动技术ZMC API动态链接库
-
-## 安装与使用
-
-1. 确保已安装正运动ECI1408控制卡及相应驱动程序
-2. 连接控制卡与步进电机驱动器
-3. 配置网络连接，确保上位机与控制卡通信正常
-4. 运行应用程序，进行电机控制操作
+- **开发平台**：Windows Form (.NET Framework/C#)
+- **控制卡**：正运动ECI1408四轴EtherCAT总线控制卡
+- **通信方式**：以太网通信
+- **API**：正运动ZMC API动态链接库
 
 ## 开发环境
 
-- Visual Studio 2019或更高版本
-- .NET Framework 4.7.2或更高版本
-- 正运动技术ZMC开发包
+- Visual Studio 2017或更高版本
+- .NET Framework 4.5或更高版本
+- 正运动技术ZMC API开发包
+
+## 安装与使用
+
+1. 克隆或下载本项目到本地
+2. 使用Visual Studio打开解决方案文件
+3. 添加正运动技术提供的ZMC API引用
+4. 编译并运行项目
+5. 确保ECI1408控制卡与PC处于同一网络
+6. 扫描并连接控制卡，配置各轴参数后即可进行运动控制
+
+
+
+## API使用示例
+
+```csharp
+// 点动控制示例
+ZAux_Direct_SingleJog(handle, axis, speed);
+
+// 寸动控制示例
+ZAux_Direct_SetMovePos(handle, axis, distance);
+ZAux_Direct_SingleMove(handle, axis, mode);
+
+// 回零操作示例
+ZAux_Direct_Home(handle, axis);
+```
+
 
 ## 许可证
 
-本项目仅用于学习和研究目的，请遵守相关法律法规。
+本项目仅用于学习和研究目的，请遵守正运动技术相关API的使用条款。
 
-## 联系方式
+## 支持与联系
 
 如有问题或建议，请通过GitHub Issues提交反馈。
 
 ---
-
-*注意：使用本软件前请确保已充分了解运动控制系统的安全操作规程，避免设备损坏或人身伤害。*
