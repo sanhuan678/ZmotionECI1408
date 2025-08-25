@@ -1,4 +1,3 @@
-<img width="646" height="527" alt="image" src="https://github.com/user-attachments/assets/3745b67d-46d7-4010-b3fd-6489c8f876ae" /># 四轴运动控制平台软件
 
 基于C#与正运动ECI1408的四轴运动控制平台软件开发项目。
 
