@@ -1,0 +1,17 @@
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\bin\Debug\net6.0-windows\3_PointMove.exe
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\bin\Debug\net6.0-windows\3_PointMove.deps.json
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\bin\Debug\net6.0-windows\3_PointMove.runtimeconfig.json
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\bin\Debug\net6.0-windows\3_PointMove.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\bin\Debug\net6.0-windows\3_PointMove.pdb
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.csproj.AssemblyReference.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\PointMove.Form1.resources
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.csproj.GenerateResource.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.AssemblyInfoInputs.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.AssemblyInfo.cs
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.csproj.CoreCompileInputs.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\refint\3_PointMove.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.pdb
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\3_PointMove.genruntimeconfig.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\3_PointMove\obj\Debug\net6.0-windows\ref\3_PointMove.dll

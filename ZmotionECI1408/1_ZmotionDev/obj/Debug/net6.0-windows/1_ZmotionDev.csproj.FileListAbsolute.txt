@@ -1,0 +1,33 @@
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.exe
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.deps.json
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.runtimeconfig.json
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.pdb
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.csproj.AssemblyReference.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\_1_ZmotionDev.Form1.resources
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.csproj.GenerateResource.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.AssemblyInfoInputs.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.AssemblyInfo.cs
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.csproj.CoreCompileInputs.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\refint\1_ZmotionDev.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.pdb
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.genruntimeconfig.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\ref\1_ZmotionDev.dll
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.exe
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.deps.json
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.runtimeconfig.json
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.dll
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\bin\Debug\net6.0-windows\1_ZmotionDev.pdb
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\_1_ZmotionDev.Form1.resources
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.csproj.GenerateResource.cache
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.GeneratedMSBuildEditorConfig.editorconfig
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.AssemblyInfoInputs.cache
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.AssemblyInfo.cs
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.csproj.CoreCompileInputs.cache
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.dll
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\refint\1_ZmotionDev.dll
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.pdb
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\1_ZmotionDev.genruntimeconfig.cache
+E:\运动卡\zmo1408\Zmotion-QuickStart-SLN\1_ZmotionDev\obj\Debug\net6.0-windows\ref\1_ZmotionDev.dll

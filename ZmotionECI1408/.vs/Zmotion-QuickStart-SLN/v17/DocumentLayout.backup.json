@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6519C709-B5CD-4C59-8C5B-6B4B848B3385}|2_JogMove\\2_JogMove.csproj|e:\\\u8FD0\u52A8\u5361\\zmo1408\\zmotion-quickstart-sln\\2_jogmove\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6519C709-B5CD-4C59-8C5B-6B4B848B3385}|2_JogMove\\2_JogMove.csproj|solutionrelative:2_jogmove\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D964E6E-912A-4211-ABC0-FB460368C0C4}|1_ZmotionDev\\1_ZmotionDev.csproj|e:\\\u8FD0\u52A8\u5361\\zmo1408\\zmotion-quickstart-sln\\1_zmotiondev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D964E6E-912A-4211-ABC0-FB460368C0C4}|1_ZmotionDev\\1_ZmotionDev.csproj|solutionrelative:1_zmotiondev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0590F51-B8A3-499B-A3A9-C2432F04A7A7}|3_PointMove\\3_PointMove.csproj|e:\\\u8FD0\u52A8\u5361\\zmo1408\\zmotion-quickstart-sln\\3_pointmove\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0590F51-B8A3-499B-A3A9-C2432F04A7A7}|3_PointMove\\3_PointMove.csproj|solutionrelative:3_pointmove\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0590F51-B8A3-499B-A3A9-C2432F04A7A7}|3_PointMove\\3_PointMove.csproj|e:\\\u8FD0\u52A8\u5361\\zmo1408\\zmotion-quickstart-sln\\3_pointmove\\zmcaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0590F51-B8A3-499B-A3A9-C2432F04A7A7}|3_PointMove\\3_PointMove.csproj|solutionrelative:3_pointmove\\zmcaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\1_ZmotionDev\\Form1.cs",
+              "RelativeDocumentMoniker": "1_ZmotionDev\\Form1.cs",
+              "ToolTip": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\1_ZmotionDev\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "1_ZmotionDev\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:35:54.482Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\2_JogMove\\Form1.cs",
+              "RelativeDocumentMoniker": "2_JogMove\\Form1.cs",
+              "ToolTip": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\2_JogMove\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "2_JogMove\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:35:51.354Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\3_PointMove\\Form1.cs",
+              "RelativeDocumentMoniker": "3_PointMove\\Form1.cs",
+              "ToolTip": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\3_PointMove\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "3_PointMove\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:35:24.909Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zmcaux.cs",
+              "DocumentMoniker": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\3_PointMove\\Zmcaux.cs",
+              "RelativeDocumentMoniker": "3_PointMove\\Zmcaux.cs",
+              "ToolTip": "E:\\\u8FD0\u52A8\u5361\\zmo1408\\Zmotion-QuickStart-SLN\\3_PointMove\\Zmcaux.cs",
+              "RelativeToolTip": "3_PointMove\\Zmcaux.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:35:18.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

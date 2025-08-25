@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1_ZmotionDev/1.0.0": {
+        "runtime": {
+          "1_ZmotionDev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_ZmotionDev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

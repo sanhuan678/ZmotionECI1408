@@ -1,0 +1,17 @@
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\bin\Debug\net6.0-windows\2_JogMove.exe
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\bin\Debug\net6.0-windows\2_JogMove.deps.json
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\bin\Debug\net6.0-windows\2_JogMove.runtimeconfig.json
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\bin\Debug\net6.0-windows\2_JogMove.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\bin\Debug\net6.0-windows\2_JogMove.pdb
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.csproj.AssemblyReference.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\_2_JogMove.Form1.resources
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.csproj.GenerateResource.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.AssemblyInfoInputs.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.AssemblyInfo.cs
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.csproj.CoreCompileInputs.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\refint\2_JogMove.dll
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.pdb
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\2_JogMove.genruntimeconfig.cache
+E:\Gerry\运动控制\01 运动控制系统\正运动\Resource\Zmotion-QuickStart-SLN\2_JogMove\obj\Debug\net6.0-windows\ref\2_JogMove.dll
