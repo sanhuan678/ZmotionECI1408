@@ -1,6 +1,6 @@
 
 基于C#与正运动ECI1408的四轴运动控制平台软件开发项目。
-
+https://github.com/user-attachments/assets/bf354283-1af0-4a35-a30d-cdf1642beb6d
 ## 项目概述
 
 本项目是一个Windows上位机软件，通过正运动ECI1408四轴EtherCAT总线控制卡实现对步进电机的精确控制。软件采用WinForm作为前端开发框架，利用正运动技术提供的ZMC API动态链接库进行二次开发，实现了上位机与控制卡之间基于以太网通信的完整解决方案。
@@ -12,10 +12,6 @@
 - **参数设置**：全面的运动参数配置，包括：
   - 起始速度
   - 运行速度
-
-https://github.com/user-attachments/assets/bd47e647-423f-4053-aa17-5917c705856e
-
-
   - 加速度
   - 减速度
   - S曲线参数
@@ -28,7 +24,6 @@ https://github.com/user-attachments/assets/bd47e647-423f-4053-aa17-5917c705856e
   - 回零操作(ZAux_Direct_Home)：使各轴返回初始位置
 <img width="1170" height="669" alt="image" src="https://github.com/user-attachments/assets/76013569-cf6e-4054-8ecf-6b9c5a8a6d57" />
 <img width="400" height="468" alt="image" src="https://github.com/user-attachments/assets/d9daa1de-d74c-4dd8-b932-6b694d7c7a9d" />
-
 <img width="646" height="527" alt="image" src="https://github.com/user-attachments/assets/4a8a9bd2-c01a-4a34-a614-babdfccc5134" />
 ## 技术架构
 
@@ -38,7 +33,7 @@ https://github.com/user-attachments/assets/bd47e647-423f-4053-aa17-5917c705856e
 - **API**：正运动ZMC API动态链接库
 
 
-https://github.com/user-attachments/assets/bf354283-1af0-4a35-a30d-cdf1642beb6d
+
 
 
 ## 开发环境
