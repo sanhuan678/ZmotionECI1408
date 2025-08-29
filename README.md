@@ -12,6 +12,10 @@
 - **参数设置**：全面的运动参数配置，包括：
   - 起始速度
   - 运行速度
+
+https://github.com/user-attachments/assets/bd47e647-423f-4053-aa17-5917c705856e
+
+
   - 加速度
   - 减速度
   - S曲线参数
@@ -60,7 +64,11 @@ ZAux_Direet_Single_Vmove(handle, axis,l)
 //绝对运行
 ZAux Direct Single Move(handle,axis,distance *dir);// 如果距离为正，正方向运动，如果距离为负，负方向运动
 //相对运动
-ZAux Direct Single MoveAbs(handle,axis,distance);
+ZAux Direct Single MoveAbs(handle,axis
+
+https://github.com/user-attachments/assets/51d8601b-7f17-4378-8d1b-85369728cbe7
+
+,distance);
 // 回零操作示例
 ZAux_Direct_Home(handle, axis);
 ```
