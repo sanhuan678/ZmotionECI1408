@@ -54,12 +54,13 @@
 
 ```csharp
 // 点动控制示例
-ZAux_Direct_SingleJog(handle, axis, speed);
-
+ZAux_Direet_Single_Vmove(handle, axis,l)
+ZAux_Direet_Single_Vmove(handle, axis,l)
 // 寸动控制示例
-ZAux_Direct_SetMovePos(handle, axis, distance);
-ZAux_Direct_SingleMove(handle, axis, mode);
-
+//绝对运行
+ZAux Direct Single Move(handle,axis,distance *dir);// 如果距离为正，正方向运动，如果距离为负，负方向运动
+//相对运动
+ZAux Direct Single MoveAbs(handle,axis,distance);
 // 回零操作示例
 ZAux_Direct_Home(handle, axis);
 ```
