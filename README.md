@@ -22,9 +22,10 @@
   - 点动控制(ZAux_Direct_SingleJog)：支持正、负方向点动操作
   - 寸动控制(ZAux_Direct_SetMovePos + ZAux_Direct_SingleMove)：支持相对运动与绝对运动两种模式，可设置正负方向及移动距离
   - 回零操作(ZAux_Direct_Home)：使各轴返回初始位置
-<img width="646" height="527" alt="image" src="https://github.com/user-attachments/assets/4a8a9bd2-c01a-4a34-a614-babdfccc5134" />
+<img width="1170" height="669" alt="image" src="https://github.com/user-attachments/assets/76013569-cf6e-4054-8ecf-6b9c5a8a6d57" />
 <img width="400" height="468" alt="image" src="https://github.com/user-attachments/assets/d9daa1de-d74c-4dd8-b932-6b694d7c7a9d" />
 
+<img width="646" height="527" alt="image" src="https://github.com/user-attachments/assets/4a8a9bd2-c01a-4a34-a614-babdfccc5134" />
 ## 技术架构
 
 - **开发平台**：Windows Form (.NET Framework/C#)
