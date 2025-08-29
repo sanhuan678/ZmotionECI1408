@@ -37,6 +37,10 @@ https://github.com/user-attachments/assets/bd47e647-423f-4053-aa17-5917c705856e
 - **通信方式**：以太网通信
 - **API**：正运动ZMC API动态链接库
 
+
+https://github.com/user-attachments/assets/bf354283-1af0-4a35-a30d-cdf1642beb6d
+
+
 ## 开发环境
 
 - Visual Studio 2017或更高版本
