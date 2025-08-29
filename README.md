@@ -1,10 +1,9 @@
 
 基于C#与正运动ECI1408的四轴运动控制平台软件开发项目。
-https://github.com/user-attachments/assets/bf354283-1af0-4a35-a30d-cdf1642beb6d
 ## 项目概述
 
 本项目是一个Windows上位机软件，通过正运动ECI1408四轴EtherCAT总线控制卡实现对步进电机的精确控制。软件采用WinForm作为前端开发框架，利用正运动技术提供的ZMC API动态链接库进行二次开发，实现了上位机与控制卡之间基于以太网通信的完整解决方案。
-
+https://github.com/user-attachments/assets/bf354283-1af0-4a35-a30d-cdf1642beb6d
 ## 系统功能
 
 - **设备连接**：通过扫描IP地址与ECI1408轴卡建立稳定连接
