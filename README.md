@@ -48,7 +48,7 @@
 | **运动控制**     | 正运动技术ECI1408控制卡 / ZMC API 动态链接库                              |
 | **机器视觉**     | OpenCV, 工业相机厂商SDK (如Hikvision, Daheng, Basler等)                   |
 | **数据持久化**   | Entity Framework (EF) Core / EF6 - Code First 模式                        |
-| **数据库**       | SQL Server / SQLite (根据配置而定)                                        |
+| **数据库**       | SQL Server                                      |
 
 ## 🚀 主要功能
 
